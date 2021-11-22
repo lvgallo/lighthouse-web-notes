@@ -1,7 +1,7 @@
 # Luciana's Notes
 
-## [Summary](https://github.com/lvgallo)
+## Summary
 
-This repository contains all of the notes taken by [Your Name] for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+This repository contains all of the notes taken by [Luciana](https://github.com/lvgallo) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 
